@@ -1,5 +1,5 @@
 $(function(){
-    'use strict';
+    
 
     var timer = document.getElementById('timer');
     var start = document.getElementById('start');
